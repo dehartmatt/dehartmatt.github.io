@@ -2,5 +2,16 @@
    Author's custom styles
    ========================================================================== */
 .depreciated {
+    background-color: #F8E5BC;
+}
+
+.removed {
     background-color: #F8D6D6;
+}
+
+.small {
+    font-size: 85%;
+    /* [disabled]font-style: italic; */
+    font-weight: 300;
+    display:block;
 }
